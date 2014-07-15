@@ -1,4 +1,4 @@
-VirtualMicroscope
+WebVirtualMicroscope
 =================
 This application was created by the NYU School of Medicine Division of Educational Informatics: William Holloway and Marc Triola MD. The Virtual Microscope uses the Google Maps API to display, annotate, and navigate scanned slides. The working NYU site is available here: http://cloud.med.nyu.edu/virtualmicroscope/
 
