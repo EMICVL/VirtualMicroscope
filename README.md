@@ -6,6 +6,8 @@ This project consists of two components:
   * A Python script to convert slide files obtained by scanners from Aperio and Bacus Labs into a format compatible with the Google Maps API.
   * An example viewer upon which you can base your local instance
 
+This is an interesting example to try integrate into 3D virtual microscopes in the EMICVL Project.
+
 Installation
 ------------
 
